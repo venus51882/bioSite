@@ -19,9 +19,8 @@ header{
 #navbar a:hover{
 	background-color: #ffff00;
 }
-#navbar a:visited{
-	color:black;
-}
+
+
 #container{
 	margin-top: 2%;
 	margin-left: 5%;
