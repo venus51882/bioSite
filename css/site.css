@@ -11,10 +11,11 @@ header{
 }
 #navbar a{
 	float: left;
-	color: white;
+	color: black;
 	text-align: center;
 	padding: 14px 16px;
-	text-decoration:none;
+	text-decoration:solid;
+	font-weight: 600;
 }
 #navbar a:hover{
 	background-color: #ffff00;
